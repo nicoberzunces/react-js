@@ -1,0 +1,28 @@
+.banner {
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Estadio_Alberto_J._Armando_field_view.jpg/1200px-Estadio_Alberto_J._Armando_field_view.jpg")
+}
+
+.banner-container {
+    text-align: center;
+    padding: 15% 0;
+}
+
+.banner h1{
+    margin: 0;
+    color: blue;
+    font-size: 62px;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.banner p {
+    font-size: 30px;
+    color: gold;
+    text-align: center;
+
+}
