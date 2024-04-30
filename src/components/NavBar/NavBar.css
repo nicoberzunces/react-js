@@ -26,3 +26,13 @@
     cursor: pointer;
     text-decoration: none;
 }
+
+.historiaCabj{
+    justify-self: start;
+    margin-left: 20px;
+    color: gold;
+    margin-top: 4vh;
+    cursor: pointer;
+    font-size: 1.5em;
+    line-height: 2.5;
+}

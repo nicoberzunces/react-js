@@ -1,0 +1,43 @@
+.cabjHistoria h1{
+    text-decoration: underline;
+    margin: 20px 200px;
+    text-align: center;
+    background-color:#191D88;
+    color: #FFC436;
+    font-size: 2rem;
+}
+
+.cabjHistoria p {
+    font-size: 1.5rem;
+    color: #FFC436;
+    background-color: #191D88;
+    margin: 1px 0px;
+    padding: 5px;
+  }
+
+  .cabjHistoria h2{
+    text-decoration: underline;
+    margin: 20px 200px;
+    text-align: center;
+    background-color:#191D88;
+    color: #FFC436;
+    font-size: 1rem;
+  }
+  
+  .cabjHistoria h3{
+    text-decoration: underline;
+    margin: 20px 200px;
+    text-align: center;
+    background-color:#191D88;
+    color: #FFC436;
+    font-size: 1rem;
+  }
+
+  .cabjHistoria h4{
+    text-decoration: underline;
+    margin: 20px 200px;
+    text-align: center;
+    background-color:#191D88;
+    color: #FFC436;
+    font-size: 1rem;
+  }
